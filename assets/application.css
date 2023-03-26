@@ -1337,6 +1337,11 @@ video {
     margin-bottom: 4rem;
   }
 
+  .md\:my-12 {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+  }
+
   .md\:flex {
     display: flex;
   }
